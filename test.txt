@@ -1,0 +1,12 @@
+Cisco AP Name   : {some ap name}
+Cisco AP Identifier                             : {some indefrer (mac)}
+IP Address Configuration                        : DHCP
+IP Address                                      : {some ip}
+IP Netmask                                      : {some netmask}
+Gateway IP Address                              : {some gateway}
+#Useless data|||
+Fallback IP Address Being Used                  :
+Primary Cisco Controller IP Address             : 0.0.0.0
+Secondary Cisco Controller IP Address           : 0.0.0.0
+Tertiary Cisco Controller IP Address            : 0.0.0.0
+NAT External IP Address                         :

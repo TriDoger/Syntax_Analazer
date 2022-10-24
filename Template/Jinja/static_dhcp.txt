@@ -1,0 +1,7 @@
+ip dhcp pool {name}
+   host {ip} {mask}
+   client-identifier 01{mac}
+   default-router {router}
+   dns-server 172.16.60.18 172.16.60.34
+ option 43 hex f104.c0a8.e859
+ lease infinite
